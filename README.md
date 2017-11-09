@@ -1,4 +1,4 @@
-# XMLPULL V1 API Documentation</title>
+# XMLPULL V1 API Documentation
 
 <p><a href="doc/quick_intro.html">Quick Introduction</a>
 
