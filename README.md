@@ -1,13 +1,4 @@
-<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
-<html>
-<head>
-   <title>XMLPULL V1 API Documentation</title>
-   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-   <meta name="Author" content="Aleksander Slominski">
-</head>
-<body bgcolor="white">
-
-<H1>XMLPULL V1 API Documentation</H1><P>
+# XMLPULL V1 API Documentation</title>
 
 <p><a href="doc/quick_intro.html">Quick Introduction</a>
 
